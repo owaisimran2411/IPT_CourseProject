@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabasePopulatorConsoleApp", "DatabasePopulatorConsoleApp\DatabasePopulatorConsoleApp.csproj", "{80A3B592-C6D0-494B-BDF2-FD8ABA314EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A3B592-C6D0-494B-BDF2-FD8ABA314EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A3B592-C6D0-494B-BDF2-FD8ABA314EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A3B592-C6D0-494B-BDF2-FD8ABA314EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A3B592-C6D0-494B-BDF2-FD8ABA314EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19AE2033-2C6A-4FC4-BCDB-7E99C3B909F6}
+	EndGlobalSection
+EndGlobal

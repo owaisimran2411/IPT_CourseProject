@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PakwheelsDataScrapperConsoleApp", "PakwheelsDataScrapperConsoleApp\PakwheelsDataScrapperConsoleApp.csproj", "{977AE8D1-075B-4C9C-AD4F-D7CCDCBCFBD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977AE8D1-075B-4C9C-AD4F-D7CCDCBCFBD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977AE8D1-075B-4C9C-AD4F-D7CCDCBCFBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977AE8D1-075B-4C9C-AD4F-D7CCDCBCFBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977AE8D1-075B-4C9C-AD4F-D7CCDCBCFBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A54A79-371F-49D8-B5D3-7BB1D9698C09}
+	EndGlobalSection
+EndGlobal

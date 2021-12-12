@@ -1,0 +1,17 @@
+﻿CREATE TABLE [dbo].[AdsData] (
+    [ad_id]           INT           NOT NULL,
+    [brand_name]      VARCHAR (50)  NOT NULL,
+    [item_condition]  VARCHAR (20)  NOT NULL,
+    [model_year]      INT           NOT NULL,
+    [manufacturer]    VARCHAR (50)  NOT NULL,
+    [fuel_type]       VARCHAR (50)  NOT NULL,
+    [transmission]    VARCHAR (50)  NOT NULL,
+    [engine_capacity] INT           NOT NULL,
+    [description]     VARCHAR (300) NOT NULL,
+    [engine_mileage]  INT           NOT NULL,
+    [details_url]     VARCHAR (100) NOT NULL,
+    [image_url]       VARCHAR (255) NOT NULL,
+    [price]           INT           NOT NULL,
+    PRIMARY KEY CLUSTERED ([ad_id] ASC)
+);
+

@@ -1,0 +1,3591 @@
+[
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2019 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2019,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2019 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5902/honda-city-i-vtec-2-2019-59028342.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "22,780 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2500000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2019-for-sale-in-lahore-5643712"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Honda"
+				},
+				"model": "City",
+				"description": "Honda city carnelian red 2019 model and 2019 registered \nTotal geniunine bumper 2 bumper\n22,000 km driven \nScratchless spotless interior and exterior\nEach and every document with extra keys and all booklets available \n\nExtras Installed in car \n1) Trunk matt\n2) Maximus loud snail horn\n3) Fog lights \n4) Spectrum tints\n5) Air press\n6) Rear speakers installed from Honda\n\nNote:\nCar is fully detailed and protected with ceramic  coating allround kochchemie done by Detailing King",
+				"itemCondition": "used",
+				"modelDate": 2019,
+				"manufacturer": "Honda",
+				"fuelType": "Petrol",
+				"name": "Honda City 2019 for sale in Lahore",
+				"image": "https://cache2.pakwheels.com/ad_pictures/5902/Slide_honda-city-i-vtec-2-2019-59028342.jpg",
+				"vehicleTransmission": "Manual",
+				"color": "Maroon",
+				"bodyType": "Sedan",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1300cc"
+				},
+				"mileageFromOdometer": "22,780 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 2500000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/honda-city-2019-for-sale-in-lahore-5643712"
+				}
+			},
+			"features": [
+				"ABS",
+				"AM/FM Radio",
+				"Air Conditioning",
+				"CD Player",
+				"DVD Player",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2015 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2015 for sale in Multan",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5941/toyota-corolla-gli-vvti-2015-59415462.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "82,979 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2150000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-multan-5672748"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Toyota"
+				},
+				"model": "Corolla",
+				"description": "Toyota Corolla Gli 2015. .  alyrim new tyre android pannl engine so%   suspension so%  \n1/2 pec minor touching good condition family use gari hy Sindh number hy mery apny name hy multan me rehta ho\n Contact number \n0/3/0/1/7/3/7/5/1/6/0",
+				"itemCondition": "used",
+				"modelDate": 2015,
+				"manufacturer": "Toyota",
+				"fuelType": "Petrol",
+				"name": "Toyota Corolla 2015 for sale in Multan",
+				"image": "https://cache4.pakwheels.com/ad_pictures/5941/Slide_toyota-corolla-gli-vvti-2015-59415462.jpg",
+				"vehicleTransmission": "Manual",
+				"color": "Silver",
+				"bodyType": "Sedan",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1300cc"
+				},
+				"mileageFromOdometer": "82,926 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 2150000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-multan-5672748"
+				}
+			}
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Sienta 2016 for sale in Peshawar",
+		"itemCondition": "used",
+		"modelDate": 2016,
+		"manufacturer": "Toyota",
+		"fuelType": "Hybrid",
+		"name": "Toyota Sienta 2016 for sale in Peshawar",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-sienta-x-24-2016-59428303.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "100,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3350000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-sienta-2016-for-sale-in-peshawar-5673725"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Toyota"
+				},
+				"model": "Sienta",
+				"description": "Fresh 2021 import.\nBumper to Bumper genuine.\nVerified Auction sheet Available.",
+				"itemCondition": "used",
+				"modelDate": 2016,
+				"manufacturer": "Toyota",
+				"fuelType": "Hybrid",
+				"name": "Toyota Sienta 2016 for sale in Peshawar",
+				"image": "https://cache1.pakwheels.com/ad_pictures/5942/Slide_toyota-sienta-x-24-2016-59428303.jpg",
+				"vehicleTransmission": "Automatic",
+				"color": "Silver",
+				"bodyType": "Van",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1500cc"
+				},
+				"mileageFromOdometer": "100,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 3350000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/toyota-sienta-2016-for-sale-in-peshawar-5673725"
+				}
+			}
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2014 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2014 for sale in Islamabad",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5938/honda-city-aspire-1-3-i-vtec-2014-59383008.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "119,483 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2050000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2014-for-sale-in-islamabad-5666283"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Honda"
+				},
+				"model": "City",
+				"description": "- Pak wheels Inspected car\r\n- Inspection report attached \r\n- 1st owner\r\n- Token tax Paid\r\n- Documents complete\r\n- Model 2014\r\n- Registered 2014\r\n- 2 Keys available\r\n- Neat & clean car",
+				"itemCondition": "used",
+				"modelDate": 2014,
+				"manufacturer": "Honda",
+				"fuelType": "Petrol",
+				"name": "Honda City 2014 for sale in Islamabad",
+				"image": "https://cache3.pakwheels.com/ad_pictures/5938/Slide_honda-city-aspire-1-3-i-vtec-2014-59383008.jpg",
+				"vehicleTransmission": "Manual",
+				"color": "Grey",
+				"bodyType": "Sedan",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1300cc"
+				},
+				"mileageFromOdometer": "119,483 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 2050000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/honda-city-2014-for-sale-in-islamabad-5666283"
+				}
+			},
+			"features": [
+				"ABS",
+				"AM/FM Radio",
+				"Air Conditioning",
+				"Alloy Rims",
+				"CD Player",
+				"DVD Player",
+				"Front Speakers",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Navigation System",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows",
+				"Rear Camera",
+				"Rear Speakers",
+				"USB and Auxillary Cable"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Wagon R 2018 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Suzuki",
+		"fuelType": "Hybrid",
+		"name": "Suzuki Wagon R 2018 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-wagon-r-hybrid-fz-2018-59426900.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "4,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2350000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-wagon-r-2018-for-sale-in-lahore-5673654"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Suzuki"
+				},
+				"model": "Wagon R",
+				"description": "Suzuki WAGON R 2018 MODEL\n2021 Fresh import \nLimited edtion \n360 cameras \nPush start \nMultimedia \nNavigation \nAlloy wheels\nHybrid \nFull option \n",
+				"itemCondition": "used",
+				"modelDate": 2018,
+				"manufacturer": "Suzuki",
+				"fuelType": "Hybrid",
+				"name": "Suzuki Wagon R 2018 for sale in Lahore",
+				"image": "https://cache4.pakwheels.com/ad_pictures/5942/Slide_suzuki-wagon-r-hybrid-fz-2018-59426900.jpg",
+				"vehicleTransmission": "Automatic",
+				"color": "White",
+				"bodyType": "Hatchback",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "660cc"
+				},
+				"mileageFromOdometer": "4,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 2350000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/suzuki-wagon-r-2018-for-sale-in-lahore-5673654"
+				}
+			},
+			"features": [
+				"ABS",
+				"AM/FM Radio",
+				"Air Bags",
+				"Air Conditioning",
+				"Alloy Rims",
+				"DVD Player",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Navigation System",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2011 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2011,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2011 for sale in Islamabad",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5921/honda-civic-vti-1-8-i-vtec-oriel-prosmatec-2011-59216162.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "140,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1895000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2011-for-sale-in-islamabad-5657792"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Honda"
+				},
+				"model": "Civic",
+				"description": "Assalam u alikum First read the add before coming all I mentioned on add is 100% exact \nIt’s 2011 November Model and 2012 Registered \nIt’s full option Ug variant with genuine company navigation \nCar is in alhumdulillah 85% in genuine paint \nNot a minor accident guaranteed \nI have certified report as well \nBoth keys , Genuine file , Genuine card tokens all up to date \nRecently all tuned up \nHave its own genuine engine no tempering \nAll suspension and steering work done from honda all fluids lubricants changed \nCar is totally up to date ",
+				"itemCondition": "used",
+				"modelDate": 2011,
+				"manufacturer": "Honda",
+				"fuelType": "Petrol",
+				"name": "Honda Civic 2011 for sale in Islamabad",
+				"image": "https://cache1.pakwheels.com/ad_pictures/5921/Slide_honda-civic-vti-1-8-i-vtec-oriel-prosmatec-2011-59216162.jpg",
+				"vehicleTransmission": "Automatic",
+				"color": "Black",
+				"bodyType": "Sedan",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1800cc"
+				},
+				"mileageFromOdometer": "140,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 1895000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/honda-civic-2011-for-sale-in-islamabad-5657792"
+				}
+			},
+			"features": [
+				"ABS",
+				"AM/FM Radio",
+				"Air Bags",
+				"Air Conditioning",
+				"Alloy Rims",
+				"CD Player",
+				"DVD Player",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Navigation System",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows",
+				"Sun Roof"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Fortuner 2020 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2020,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Fortuner 2020 for sale in Multan",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-fortuner-2-7-g-2020-59426310.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2700cc"
+		},
+		"mileageFromOdometer": "11,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 9025000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-fortuner-2020-for-sale-in-multan-5673627"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Toyota"
+				},
+				"model": "Fortuner",
+				"description": "Toyota Fortuner G 2.7. First owner. Immaculate condition. Bumper to bumper original. Not even a single scratch on it. Multiple upgrades installed. \n1. Original factory fitted Bi Beam LED headlamps (fitted from Dealership) no wire cutting (Cost 300k) these are not qabli hearlamps. And proper wire management has been done by dealership. Original headlamps will be given alongwith the car. New LED fog lamps also installed (original Toyota). Original fog lamps will also be given alongwith. \n2. Original Gyeon PPF installed with ceramic coating. And undercoating. \n3. High quality 1080p 3M piano black vinyl top coat. Giving look of Toyota legender. \nPrice of PPF and Top vinyl is 250,000\n4. Original 3M anti glare full visibility window tints CR70 installed on all windows with ultimate heat Rejection. Worth 40k. \n5. High quality fabric seat covers with quilting. \n6. Leather cover for Steering wheel. Hand stitched. \n7. Vip number. Islamabad registered. \n\nCar is sparingly used as a 3rd car. Only used for a few trips to lahore and islamabad. Condition of the car speaks for itself. Its only 11k driven. \n\nReason to sell upgrading to next model. Not in a hurry to sell. Price is very slightly negotiable. Polite No to low ballers and dealers. Car will be sold as is where is. Only contact if you are a serious buyer and understand the car and its expensive high quality upgrades and situation of car availability and existing own situation in the market. Will not be sold to dealers and owner will have to get the car transferred to their own name within 15 days. \nPlease call within office hours and its better to text before calling. I repeat price is firm. So please only call if u agree to the written price. Otherwise there are other ADs where you can try your luck. Leave a message if i dont take the call. I will call back. ",
+				"itemCondition": "used",
+				"modelDate": 2020,
+				"manufacturer": "Toyota",
+				"fuelType": "Petrol",
+				"name": "Toyota Fortuner 2020 for sale in Multan",
+				"image": "https://cache1.pakwheels.com/ad_pictures/5942/Slide_toyota-fortuner-2-7-g-2020-59426310.jpg",
+				"vehicleTransmission": "Automatic",
+				"color": "White",
+				"bodyType": "SUV",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "2700cc"
+				},
+				"mileageFromOdometer": "11,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 9025000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/toyota-fortuner-2020-for-sale-in-multan-5673627"
+				}
+			},
+			"features": [
+				"ABS",
+				"AM/FM Radio",
+				"Air Bags",
+				"Air Conditioning",
+				"Alloy Rims",
+				"CD Player",
+				"CoolBox",
+				"Cruise Control",
+				"DVD Player",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Navigation System",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2007 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2007,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2007 for sale in Multan",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5930/toyota-corolla-xli-2-2007-59300090.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "84,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1250000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2007-for-sale-in-multan-5664237"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Toyota"
+				},
+				"model": "Corolla",
+				"description": "toyota corolla XLI model 2007 color White reg multan good looking car",
+				"itemCondition": "used",
+				"modelDate": 2007,
+				"manufacturer": "Toyota",
+				"fuelType": "Petrol",
+				"name": "Toyota Corolla 2007 for sale in Multan",
+				"image": "https://cache2.pakwheels.com/ad_pictures/5930/Slide_toyota-corolla-xli-2-2007-59300090.jpg",
+				"vehicleTransmission": "Manual",
+				"color": "White",
+				"bodyType": "Sedan",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1300cc"
+				},
+				"mileageFromOdometer": "84,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 1250000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2007-for-sale-in-multan-5664237"
+				}
+			},
+			"features": [
+				"AM/FM Radio",
+				"Air Conditioning",
+				"CD Player",
+				"Cassette Player",
+				"Power Steering"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Daihatsu"
+		},
+		"description": "Daihatsu Mira 2018 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Daihatsu",
+		"fuelType": "Petrol",
+		"name": "Daihatsu Mira 2018 for sale in Islamabad",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5864/daihatsu-mira-g-sa-2-2018-58649059.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "24,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2185000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/daihatsu-mira-2018-for-sale-in-islamabad-5614453"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Daihatsu"
+				},
+				"model": "Mira",
+				"description": "Brand new zero meter car.\nPearl white colour.\nPrice is almost final.\n2018 model.\nImport 2021.\nFuel average is giving 24km in local.\nLane assistance.\nDvd with back.\nCam recorder.\nDas cam.\nParking sensors.\nAuto high bean management.\nProjections light with leds.\nAnti Colin control.\nParking sensor.\nRadadar.\nAuto breaking.\nBlue meter with all option.\nAutomatic side mirrors.\nAttraction control.\nLed lights ginune come from japan\nRain sensors.\nGenuine airbags.\nNo time waste calls please only serious buyers can call thank you bumper to bumper  original.",
+				"itemCondition": "used",
+				"modelDate": 2018,
+				"manufacturer": "Daihatsu",
+				"fuelType": "Petrol",
+				"name": "Daihatsu Mira 2018 for sale in Islamabad",
+				"image": "https://cache4.pakwheels.com/ad_pictures/5864/Slide_daihatsu-mira-g-sa-2-2018-58649059.jpg",
+				"vehicleTransmission": "Automatic",
+				"color": "White",
+				"bodyType": "Hatchback",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "660cc"
+				},
+				"mileageFromOdometer": "24,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 2185000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/daihatsu-mira-2018-for-sale-in-islamabad-5614453"
+				}
+			},
+			"features": [
+				"ABS",
+				"Air Bags",
+				"Air Conditioning",
+				"CD Player",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2014 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2014 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5684/honda-civic-oriel-prosmatec-ug-2014-56846691.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "116,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2475000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2014-for-sale-in-lahore-5478085"
+		},
+		"adUrlScrapping": {
+			"details": {
+				"@context": "https://schema.org",
+				"@type": "Car",
+				"brand": {
+					"@type": "Brand",
+					"name": "Honda"
+				},
+				"model": "Civic",
+				"description": "Honda Civic 2014 model UG\nExcellent condition \nFull option \nPrice is final \nUrgent sale \n",
+				"itemCondition": "used",
+				"modelDate": 2014,
+				"manufacturer": "Honda",
+				"fuelType": "Petrol",
+				"name": "Honda Civic 2014 for sale in Lahore",
+				"image": "https://cache3.pakwheels.com/ad_pictures/5684/Slide_honda-civic-oriel-prosmatec-ug-2014-56846691.jpg",
+				"vehicleTransmission": "Automatic",
+				"color": "Black",
+				"bodyType": "Sedan",
+				"vehicleEngine": {
+					"@type": "EngineSpecification",
+					"engineDisplacement": "1800cc"
+				},
+				"mileageFromOdometer": "116,000 km",
+				"offers": {
+					"@context": "https://schema.org",
+					"@type": "Offer",
+					"price": 2475000,
+					"availability": "http://schema.org/InStock",
+					"priceCurrency": "PKR",
+					"url": "https://www.pakwheels.com/used-cars/honda-civic-2014-for-sale-in-lahore-5478085"
+				}
+			},
+			"features": [
+				"ABS",
+				"AM/FM Radio",
+				"Air Bags",
+				"Air Conditioning",
+				"Alloy Rims",
+				"CD Player",
+				"Cruise Control",
+				"Immobilizer Key",
+				"Keyless Entry",
+				"Navigation System",
+				"Power Locks",
+				"Power Mirrors",
+				"Power Steering",
+				"Power Windows",
+				"Sun Roof"
+			]
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2019 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2019,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2019 for sale in Multan",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-cultus-vxl-2-2019-59426144.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "26,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2025000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2019-for-sale-in-multan-5673566"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2017 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2017 for sale in Multan",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/honda-city-i-vtec-2-2017-59424059.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "49,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2265000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2017-for-sale-in-multan-5673431"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "KIA"
+		},
+		"description": "KIA Sportage 2021 for sale in Nankana sahib",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "KIA",
+		"fuelType": "Petrol",
+		"name": "KIA Sportage 2021 for sale in Nankana sahib",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/kia-sportage-alpha-2-2021-59428682.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2000cc"
+		},
+		"mileageFromOdometer": "9,033 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 4900000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/kia-sportage-2021-for-sale-in-nankana-sahib-5673755"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2015 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2015 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/honda-civic-oriel-prosmatec-ug-2015-59428590.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "132,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2900000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2015-for-sale-in-lahore-5673754"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2015 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2015 for sale in Rawalpindi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-corolla-gli-vvti-automatic-2015-59428536.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "73,560 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2770000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-rawalpindi-5673748"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2009 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2009,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2009 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-xli-vvti-2009-59428608.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "65,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1430000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2009-for-sale-in-karachi-5673746"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2018 for sale in Faisalabad",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2018 for sale in Faisalabad",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/suzuki-cultus-vxr-2018-59428661.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "51,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1700000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2018-for-sale-in-faisalabad-5673745"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2015 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2015 for sale in Rawalpindi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-gli-vvti-2015-59428584.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "95,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2245000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-rawalpindi-5673744"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2017 for sale in Faisalabad",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2017 for sale in Faisalabad",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-city-i-vtec-2-2017-59428518.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "46,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2250000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2017-for-sale-in-faisalabad-5673743"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Mitsubishi"
+		},
+		"description": "Mitsubishi Lancer 2005 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2005,
+		"manufacturer": "Mitsubishi",
+		"fuelType": "Petrol",
+		"name": "Mitsubishi Lancer 2005 for sale in Islamabad",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/mitsubishi-lancer-1-6-glx-2005-59428012.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "140,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1570000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/mitsubishi-lancer-2005-for-sale-in-islamabad-5673742"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2010 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2010,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2010 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-gli-vvti-limited-edition-2010-59428541.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "75,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1850000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2010-for-sale-in-karachi-5673741"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Baleno 2000 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2000,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Baleno 2000 for sale in Islamabad",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/suzuki-baleno-16-gti-2000-59425144.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "15,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 680000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-baleno-2000-for-sale-in-islamabad-5673500"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2009 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2009,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2009 for sale in Karachi",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5662/suzuki-cultus-vxri-cng-2009-56628749.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "85,060 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 770000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2009-for-sale-in-karachi-5461428"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Surf 1993 for sale in Kasur",
+		"itemCondition": "used",
+		"modelDate": 1993,
+		"manufacturer": "Toyota",
+		"fuelType": "Diesel",
+		"name": "Toyota Surf 1993 for sale in Kasur",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/toyota-surf-ssr-g-3-4-1993-59428425.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "3500cc"
+		},
+		"mileageFromOdometer": "10 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2500000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-surf-1993-for-sale-in-kasur-5673735"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Swift 2013 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2013,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Swift 2013 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-swift-dlx-1-3-navigation-2013-59428334.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "65,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1480000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-swift-2013-for-sale-in-lahore-5673738"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Wagon R 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Wagon R 2021 for sale in Lahore",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-wagon-r-ags-2021-59428416.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "10 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2150000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-wagon-r-2021-for-sale-in-lahore-5673734"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2015 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2015 for sale in Karachi",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/toyota-corolla-gli-vvti-2015-59428385.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "90,300 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2150000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-karachi-5673733"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2021 for sale in Peshawar",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2021 for sale in Peshawar",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "10 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3800000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2021-for-sale-in-peshawar-5673731"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Vitz 2014 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Vitz 2014 for sale in Karachi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-vitz-1-0-f-2014-59427987.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "85,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2250000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-vitz-2014-for-sale-in-karachi-5673730"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Hilux 2020 for sale in Peshawar",
+		"itemCondition": "used",
+		"modelDate": 2020,
+		"manufacturer": "Toyota",
+		"fuelType": "Diesel",
+		"name": "Toyota Hilux 2020 for sale in Peshawar",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-hilux-revo-v-automatic-2-8-2020-59428175.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2800cc"
+		},
+		"mileageFromOdometer": "6,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 8375000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-hilux-2020-for-sale-in-peshawar-5673729"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Alto 2020 for sale in Jhelum",
+		"itemCondition": "used",
+		"modelDate": 2020,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Alto 2020 for sale in Jhelum",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-alto-vxr-2-2020-59428378.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "15,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1575000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-alto-2020-for-sale-in-jhelum-5673728"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2018 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2018 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-civic-oriel-1-8-i-vtec-cvt-2018-59428451.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "72,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3725000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2018-for-sale-in-lahore-5673726"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla Axio 2013 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2013,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla Axio 2013 for sale in Karachi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-corolla-axio-hybrid-3-2013-59428314.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "100,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2900000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-axio-2013-for-sale-in-karachi-5673724"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Mehran 2015 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Mehran 2015 for sale in Lahore",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-mehran-vxr-euro-ii-2015-59428443.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "800cc"
+		},
+		"mileageFromOdometer": "102,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 750000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-mehran-2015-for-sale-in-lahore-5673719"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Vezel 2016 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2016,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Vezel 2016 for sale in Karachi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5931/honda-vezel-hybrid-z-honda-sensing-2016-59316842.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "55,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3985000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-vezel-2016-for-sale-in-karachi-5665479"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Prius 2018 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Toyota",
+		"fuelType": "Hybrid",
+		"name": "Toyota Prius 2018 for sale in Islamabad",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-prius-s-touring-selection-2018-59426171.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "47,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 4795000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-prius-2018-for-sale-in-islamabad-5673574"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Daihatsu"
+		},
+		"description": "Daihatsu Rocky 2019 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2019,
+		"manufacturer": "Daihatsu",
+		"fuelType": "Petrol",
+		"name": "Daihatsu Rocky 2019 for sale in Islamabad",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/daihatsu-rocky-2019-59426059.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "2,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 4290000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/daihatsu-rocky-2019-for-sale-in-islamabad-5673562"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2018 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2018 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-altis-1-6-automatic-2018-59425464.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "60,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3250000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2018-for-sale-in-lahore-5673534"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2014 for sale in Wah cantt",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2014 for sale in Wah cantt",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5579/toyota-corolla-altis-1-6-automatic-2014-v-1-55797729.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "111,125 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2225000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2014-for-sale-in-wah-cantt-5397891"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Aqua 2017 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Aqua 2017 for sale in Karachi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-aqua-s-15-2017-59424981.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "82,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2950000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-aqua-2017-for-sale-in-karachi-5673521"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2019 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2019,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2019 for sale in Karachi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/suzuki-cultus-vxl-2-2019-59425448.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "22,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1885000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2019-for-sale-in-karachi-5673515"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2016 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2016,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2016 for sale in Karachi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5855/toyota-corolla-gli-vvti-2016-58554443.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "69,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2550000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2016-for-sale-in-karachi-5607453"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2000 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2000,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2000 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/honda-civic-exi-3-2000-59424414.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "120,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 875000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2000-for-sale-in-karachi-5673448"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2021 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5933/honda-city-1-5l-aspire-cvt-2021-59335901.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "10 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3650000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2021-for-sale-in-lahore-5666886"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2007 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2007,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2007 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5902/suzuki-cultus-vxl-cng-2007-59026694.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "50,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 795000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2007-for-sale-in-lahore-5643554"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "KIA"
+		},
+		"description": "KIA Sportage 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "KIA",
+		"fuelType": "Petrol",
+		"name": "KIA Sportage 2021 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5520/kia-sportage-fwd-2021-55206653.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2000cc"
+		},
+		"mileageFromOdometer": "1 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 5410000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/kia-sportage-2021-for-sale-in-lahore-5353474"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Swift 2010 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 2010,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Swift 2010 for sale in Rawalpindi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-swift-dlx-1-3-navigation-2010-59428286.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "82,500 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1275000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-swift-2010-for-sale-in-rawalpindi-5673723"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2006 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2006,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2006 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/honda-city-vtec-steermatic-2006-59428304.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "12,782 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1260000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2006-for-sale-in-lahore-5673675"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2017 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2017 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-gli-vvti-automatic-2017-59426846.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "70,189 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2775000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2017-for-sale-in-lahore-5673618"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "FAW"
+		},
+		"description": "FAW V2 2016 for sale in Swabi",
+		"itemCondition": "used",
+		"modelDate": 2016,
+		"manufacturer": "FAW",
+		"fuelType": "Petrol",
+		"name": "FAW V2 2016 for sale in Swabi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/faw-v2-vct-i-2016-59427840.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "50,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1500000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/faw-v2-2016-for-sale-in-swabi-5673721"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Mehran 2013 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2013,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Mehran 2013 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-mehran-vxr-euro-ii-2013-59428196.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "800cc"
+		},
+		"mileageFromOdometer": "46,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 680000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-mehran-2013-for-sale-in-lahore-5673722"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Surf 2001 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2001,
+		"manufacturer": "Toyota",
+		"fuelType": "Diesel",
+		"name": "Toyota Surf 2001 for sale in Lahore",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-surf-ssr-g-3-0d-2001-59428168.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "3000cc"
+		},
+		"mileageFromOdometer": "123,123 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1100000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-surf-2001-for-sale-in-lahore-5673720"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2012 for sale in Peshawar",
+		"itemCondition": "used",
+		"modelDate": 2012,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2012 for sale in Peshawar",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-cultus-euro-ii-cng-2012-59427698.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "81,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1035000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2012-for-sale-in-peshawar-5673681"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Alto 2004 for sale in Gujranwala",
+		"itemCondition": "used",
+		"modelDate": 2004,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Alto 2004 for sale in Gujranwala",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/suzuki-alto-vxr-2-2004-59428130.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "140,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 625000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-alto-2004-for-sale-in-gujranwala-5673718"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Wagon R 2020 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 2020,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Wagon R 2020 for sale in Rawalpindi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/suzuki-wagon-r-vxl-2020-59428061.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "19,265 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1875000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-wagon-r-2020-for-sale-in-rawalpindi-5673717"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2015 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2015 for sale in Lahore",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/toyota-corolla-altis-1-6-automatic-2015-59428145.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "134,527 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2675000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-lahore-5673714"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Mehran 2017 for sale in Bahawalpur",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Mehran 2017 for sale in Bahawalpur",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/suzuki-mehran-vxr-euro-ii-2017-59428092.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "800cc"
+		},
+		"mileageFromOdometer": "200,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 900000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-mehran-2017-for-sale-in-bahawalpur-5673709"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2015 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2015 for sale in Islamabad",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/honda-city-i-vtec-2-2015-59428230.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "138,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1885000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2015-for-sale-in-islamabad-5673716"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2015 for sale in Peshawar",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2015 for sale in Peshawar",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-corolla-altis-1-8-grande-automatic-2015-59428065.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "73,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3080000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2015-for-sale-in-peshawar-5673713"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Hilux 2014 for sale in Peshawar",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Toyota",
+		"fuelType": "Diesel",
+		"name": "Toyota Hilux 2014 for sale in Peshawar",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5520/toyota-hilux-vigo-champ-gx-2014-55202384.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2500cc"
+		},
+		"mileageFromOdometer": "86,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 4900000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-hilux-2014-for-sale-in-peshawar-5353157"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Wagon R 2021 for sale in Sumandari",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Wagon R 2021 for sale in Sumandari",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/suzuki-wagon-r-ags-2021-59428311.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "20,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2024000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-wagon-r-2021-for-sale-in-sumandari-5673715"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Mehran 1997 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 1997,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Mehran 1997 for sale in Rawalpindi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-mehran-vx-2-1997-59428126.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "800cc"
+		},
+		"mileageFromOdometer": "150,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 300000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-mehran-1997-for-sale-in-rawalpindi-5673712"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Daihatsu"
+		},
+		"description": "Daihatsu Terios Kid 2006 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2006,
+		"manufacturer": "Daihatsu",
+		"fuelType": "Petrol",
+		"name": "Daihatsu Terios Kid 2006 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/daihatsu-terios-kid-2006-59427962.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1100cc"
+		},
+		"mileageFromOdometer": "139,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1275000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/daihatsu-terios-kid-2006-for-sale-in-karachi-5673711"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2016 for sale in Chakwal",
+		"itemCondition": "used",
+		"modelDate": 2016,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2016 for sale in Chakwal",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/honda-civic-oriel-1-8-i-vtec-cvt-2016-59427894.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "120,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3490000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2016-for-sale-in-chakwal-5673708"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Nissan"
+		},
+		"description": "Nissan Sunny 2005 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2005,
+		"manufacturer": "Nissan",
+		"fuelType": "Petrol",
+		"name": "Nissan Sunny 2005 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/nissan-sunny-1-3-exs-2005-59427583.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "123,880 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 990000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/nissan-sunny-2005-for-sale-in-lahore-5583002"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Daihatsu"
+		},
+		"description": "Daihatsu Charade 1984 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 1984,
+		"manufacturer": "Daihatsu",
+		"fuelType": "Petrol",
+		"name": "Daihatsu Charade 1984 for sale in Rawalpindi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/daihatsu-charade-cl-1984-59428114.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "19,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 200000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/daihatsu-charade-1984-for-sale-in-rawalpindi-5673705"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Passo 2011 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2011,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Passo 2011 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-passo-x-l-package-2011-59426717.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "16 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1620000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-passo-2011-for-sale-in-karachi-5673623"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Hyundai"
+		},
+		"description": "Hyundai Santro 2006 for sale in Faisalabad",
+		"itemCondition": "used",
+		"modelDate": 2006,
+		"manufacturer": "Hyundai",
+		"fuelType": "Petrol",
+		"name": "Hyundai Santro 2006 for sale in Faisalabad",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/hyundai-santro-club-2-2006-59428121.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "201,127 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 670000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/hyundai-santro-2006-for-sale-in-faisalabad-5673704"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Alto 2020 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2020,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Alto 2020 for sale in Islamabad",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-alto-vxr-2-2020-59428021.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "15,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1575000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-alto-2020-for-sale-in-islamabad-5673703"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "KIA"
+		},
+		"description": "KIA Sorento 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "KIA",
+		"fuelType": "Petrol",
+		"name": "KIA Sorento 2021 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/kia-sorento-3-5-fwd-2021-59427661.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "3500cc"
+		},
+		"mileageFromOdometer": "3,939 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 8485000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/kia-sorento-2021-for-sale-in-lahore-5673697"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Mehran 2017 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Mehran 2017 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-mehran-vx-euro-ii-2017-59428153.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "800cc"
+		},
+		"mileageFromOdometer": "52,500 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 965000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-mehran-2017-for-sale-in-lahore-5673700"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Fortuner 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Toyota",
+		"fuelType": "Diesel",
+		"name": "Toyota Fortuner 2021 for sale in Lahore",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5852/toyota-fortuner-2-8-sigma-2021-58520143.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2800cc"
+		},
+		"mileageFromOdometer": "16 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 10825000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-fortuner-2021-for-sale-in-lahore-5604805"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Wagon R 2017 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Suzuki",
+		"fuelType": "Hybrid",
+		"name": "Suzuki Wagon R 2017 for sale in Karachi",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5927/suzuki-wagon-r-hybrid-fz-2017-59278675.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "48,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1880000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-wagon-r-2017-for-sale-in-karachi-5662564"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2010 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2010,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2010 for sale in Multan",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-civic-vti-1-8-i-vtec-oriel-prosmatec-2010-59423788.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "95,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2000000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2010-for-sale-in-multan-5673403"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2021 for sale in Lahore",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5520/honda-civic-oriel-1-8-i-vtec-cvt-2021-55206606.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "9 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 4487000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2021-for-sale-in-lahore-5353469"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Hyundai"
+		},
+		"description": "Hyundai Sonata 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Hyundai",
+		"fuelType": "Petrol",
+		"name": "Hyundai Sonata 2021 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5838/hyundai-sonata-2-5-2-2021-58384912.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2500cc"
+		},
+		"mileageFromOdometer": "9 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 7990000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/hyundai-sonata-2021-for-sale-in-lahore-5594595"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2013 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2013,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2013 for sale in Lahore",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-corolla-1-6-2013-59423668.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "115,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1895000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2013-for-sale-in-lahore-5673398"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Changan"
+		},
+		"description": "Changan Karvaan 2021 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Changan",
+		"fuelType": "Petrol",
+		"name": "Changan Karvaan 2021 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5520/changan-karvaan-plus-5-2021-55206568.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "1 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1880000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/changan-karvaan-2021-for-sale-in-lahore-5353468"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Prius 2010 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2010,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Prius 2010 for sale in Multan",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-prius-g-1-8-2010-59423667.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "100,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2300000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-prius-2010-for-sale-in-multan-5673395"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Hyundai"
+		},
+		"description": "Hyundai Sonata 2021 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2021,
+		"manufacturer": "Hyundai",
+		"fuelType": "Petrol",
+		"name": "Hyundai Sonata 2021 for sale in Karachi",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/hyundai-sonata-2021-59423566.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2000cc"
+		},
+		"mileageFromOdometer": "2,425 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 7099000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/hyundai-sonata-2021-for-sale-in-karachi-5673394"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2009 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2009,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2009 for sale in Lahore",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5930/suzuki-cultus-vxri-2-2009-59303405.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "157,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 990000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2009-for-sale-in-lahore-5664471"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2012 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2012,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2012 for sale in Islamabad",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5815/toyota-corolla-gli-vvti-2012-58151014.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "39,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2400000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2012-for-sale-in-islamabad-5576870"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2017 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2017 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-civic-oriel-1-8-i-vtec-cvt-2017-59423096.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "93,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3250000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2017-for-sale-in-lahore-5673358"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Hyundai"
+		},
+		"description": "Hyundai Santro 2000 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2000,
+		"manufacturer": "Hyundai",
+		"fuelType": "Petrol",
+		"name": "Hyundai Santro 2000 for sale in Islamabad",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/hyundai-santro-plus-3-2000-59427602.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "120,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 550000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/hyundai-santro-2000-for-sale-in-islamabad-5673699"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2005 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2005,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2005 for sale in Lahore",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-civic-vti-oriel-prosmatec-2005-59427081.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "177,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1285000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2005-for-sale-in-lahore-5673661"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2003 for sale in Rawalpindi",
+		"itemCondition": "used",
+		"modelDate": 2003,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2003 for sale in Rawalpindi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-corolla-gli-2-2003-59427759.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "166,800 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1535000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2003-for-sale-in-rawalpindi-5673696"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Alto 2006 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2006,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Alto 2006 for sale in Karachi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-alto-vxr-2-2006-59427860.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "20,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 580000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-alto-2006-for-sale-in-karachi-5673695"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Cultus 2018 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Cultus 2018 for sale in Lahore",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-cultus-auto-gear-shift-vxl-2018-59427952.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "65,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1950000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-cultus-2018-for-sale-in-lahore-5673694"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Carry 2007 for sale in Lodhran",
+		"itemCondition": "used",
+		"modelDate": 2007,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Carry 2007 for sale in Lodhran",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/suzuki-carry-2007-59427833.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "600cc"
+		},
+		"mileageFromOdometer": "9,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 450000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-carry-2007-for-sale-in-lodhran-5673693"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Audi"
+		},
+		"description": "Audi A6 2016 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2016,
+		"manufacturer": "Audi",
+		"fuelType": "Petrol",
+		"name": "Audi A6 2016 for sale in Islamabad",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/audi-a6-1-8-tfsi-s-tronic-2016-59427998.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "46,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 11300000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/audi-a6-2016-for-sale-in-islamabad-5673691"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Nissan"
+		},
+		"description": "Nissan Kix 2009 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2009,
+		"manufacturer": "Nissan",
+		"fuelType": "Petrol",
+		"name": "Nissan Kix 2009 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/nissan-kix-2009-59427918.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "90,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1170000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/nissan-kix-2009-for-sale-in-karachi-5673692"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Swift 2018 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Swift 2018 for sale in Karachi",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-swift-dlx-1-3-navigation-2018-59427787.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "51,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1595000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-swift-2018-for-sale-in-karachi-5673690"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Camry 2015 for sale in Multan",
+		"itemCondition": "used",
+		"modelDate": 2015,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Camry 2015 for sale in Multan",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-camry-hybrid-2-2015-59427745.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "2500cc"
+		},
+		"mileageFromOdometer": "45,200 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 7430000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-camry-2015-for-sale-in-multan-5673689"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2011 for sale in Akora khattak",
+		"itemCondition": "used",
+		"modelDate": 2011,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2011 for sale in Akora khattak",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-altis-1-6-sr-2011-59427733.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "123 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2150000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2011-for-sale-in-akora-khattak-5673688"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 1995 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 1995,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 1995 for sale in Karachi",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/toyota-corolla-lx-limited-1-5-1995-59427842.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1500cc"
+		},
+		"mileageFromOdometer": "64,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 950000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-1995-for-sale-in-karachi-5673686"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Hyundai"
+		},
+		"description": "Hyundai Santro 2008 for sale in Lahore",
+		"itemCondition": "used",
+		"modelDate": 2008,
+		"manufacturer": "Hyundai",
+		"fuelType": "Petrol",
+		"name": "Hyundai Santro 2008 for sale in Lahore",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/hyundai-santro-club-gv-cng-2008-59427800.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1100cc"
+		},
+		"mileageFromOdometer": "69,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 835000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/hyundai-santro-2008-for-sale-in-lahore-5673685"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2018 for sale in Faisalabad",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2018 for sale in Faisalabad",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/toyota-corolla-altis-1-8-grande-automatic-2018-59427780.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "24,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2800000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2018-for-sale-in-faisalabad-5673683"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Bolan 2011 for sale in Bannu",
+		"itemCondition": "used",
+		"modelDate": 2011,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Bolan 2011 for sale in Bannu",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-bolan-2011-59427268.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "72,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 710000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-bolan-2011-for-sale-in-bannu-5673684"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Nissan"
+		},
+		"description": "Nissan Dayz Highway Star 2014 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Nissan",
+		"fuelType": "Petrol",
+		"name": "Nissan Dayz Highway Star 2014 for sale in Islamabad",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/nissan-dayz-highway-star-2014-59427598.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "660cc"
+		},
+		"mileageFromOdometer": "22 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1600000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/nissan-dayz-highway-star-2014-for-sale-in-islamabad-5673682"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Liana 2007 for sale in Pindi gheb",
+		"itemCondition": "used",
+		"modelDate": 2007,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Liana 2007 for sale in Pindi gheb",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5702/suzuki-liana-eminent-automatic-2007-57028193.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1600cc"
+		},
+		"mileageFromOdometer": "100,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 950000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-liana-2007-for-sale-in-pindi-gheb-5491983"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Passo 2013 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2013,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Passo 2013 for sale in Islamabad",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5746/toyota-passo-1-0-plus-hana-2013-57468065.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "68,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1880000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-passo-2013-for-sale-in-islamabad-5464638"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Mehran 2014 for sale in Hangu",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Mehran 2014 for sale in Hangu",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5942/suzuki-mehran-vxr-euro-ii-2014-59427444.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "800cc"
+		},
+		"mileageFromOdometer": "48,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 850000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-mehran-2014-for-sale-in-hangu-5673679"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Toyota"
+		},
+		"description": "Toyota Corolla 2017 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2017,
+		"manufacturer": "Toyota",
+		"fuelType": "Petrol",
+		"name": "Toyota Corolla 2017 for sale in Karachi",
+		"image": "https://cache4.pakwheels.com/ad_pictures/5942/toyota-corolla-altis-1-8-grande-automatic-2017-59427674.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "45,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3000000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/toyota-corolla-2017-for-sale-in-karachi-5673678"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2013 for sale in Faisalabad",
+		"itemCondition": "used",
+		"modelDate": 2013,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2013 for sale in Faisalabad",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-city-i-vtec-2-2013-59427634.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "96,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1950000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2013-for-sale-in-faisalabad-5673677"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2018 for sale in Sialkot",
+		"itemCondition": "used",
+		"modelDate": 2018,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2018 for sale in Sialkot",
+		"image": "https://cache3.pakwheels.com/ad_pictures/5942/honda-civic-oriel-1-8-i-vtec-cvt-2018-59427453.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "41,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 3670000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2018-for-sale-in-sialkot-5673676"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda City 2014 for sale in Islamabad",
+		"itemCondition": "used",
+		"modelDate": 2014,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda City 2014 for sale in Islamabad",
+		"image": "https://cache2.pakwheels.com/ad_pictures/5938/honda-city-aspire-1-3-i-vtec-2014-59383008.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1300cc"
+		},
+		"mileageFromOdometer": "119,483 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 2050000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-city-2014-for-sale-in-islamabad-5666283"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Honda"
+		},
+		"description": "Honda Civic 2008 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2008,
+		"manufacturer": "Honda",
+		"fuelType": "Petrol",
+		"name": "Honda Civic 2008 for sale in Karachi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/honda-civic-vti-1-8-i-vtec-prosmatec-2008-59427527.jpg",
+		"vehicleTransmission": "Automatic",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1800cc"
+		},
+		"mileageFromOdometer": "82,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 1440000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/honda-civic-2008-for-sale-in-karachi-5673674"
+		}
+	},
+	{
+		"@context": "https://schema.org",
+		"@type": "Car",
+		"brand": {
+			"@type": "Brand",
+			"name": "Suzuki"
+		},
+		"description": "Suzuki Alto 2002 for sale in Karachi",
+		"itemCondition": "used",
+		"modelDate": 2002,
+		"manufacturer": "Suzuki",
+		"fuelType": "Petrol",
+		"name": "Suzuki Alto 2002 for sale in Karachi",
+		"image": "https://cache1.pakwheels.com/ad_pictures/5942/suzuki-alto-vxr-2-2002-59427597.jpg",
+		"vehicleTransmission": "Manual",
+		"vehicleEngine": {
+			"@type": "EngineSpecification",
+			"engineDisplacement": "1000cc"
+		},
+		"mileageFromOdometer": "120,000 km",
+		"offers": {
+			"@context": "https://schema.org",
+			"@type": "Offer",
+			"price": 625000,
+			"availability": "http://schema.org/InStock",
+			"priceCurrency": "PKR",
+			"url": "https://www.pakwheels.com/used-cars/suzuki-alto-2002-for-sale-in-karachi-5673673"
+		}
+	}
+]
